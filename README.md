@@ -24,4 +24,30 @@ poc-game3 一款批量漏洞扫描验证工具
 	  lib 核心代码库
 
 
+C:\Users\Administrator\Desktop\poc-game3>poc_game3_main.py --help
+
+ _____   _____   _____        _____       ___       ___  ___   _____   _____
+|  _  \ /  _  \ /  ___|      /  ___|     /   |     /   |/   | | ____| |___  |
+| |_| | | | | | | |          | |        / /| |    / /|   /| | | |__      _| |
+|  ___/ | | | | | |          | |  _    / / | |   / / |__/ | | |  __|    |_  {
+| |     | |_| | | |___       | |_| |  / /  | |  / /       | | | |___   ___| |
+|_|     \_____/ \_____|      \_____/ /_/   |_| /_/        |_| |_____| |_____/
+
+poc-game3 一款批量漏洞扫描验证工具
+
+当前版本：V1.0.0
+
+
+Usage: poc_game3_main.py [OPTIONS] COMMAND [ARGS]...
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  poc-game3-batchtest
+  poc-game3-ipnumber
+  poc-game3-only
+  poc-game3-pocinfo
+  poc-game3-pocs
+  poc-game3-zoomeyehost
 
