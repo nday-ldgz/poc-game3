@@ -1,6 +1,6 @@
 #! /usr/bin/python3
 
-#poc-game3 一款批量漏洞扫描验证工具 官网：www.poc-game.me
+#poc-game3 一款批量漏洞扫描验证工具 
 
 #author by Greekn 
 #列出pocs 文件夹中的poc脚本
