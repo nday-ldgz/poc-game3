@@ -33,21 +33,21 @@ C:\Users\Administrator\Desktop\poc-game3>poc_game3_main.py --help
 	| |     | |_| | | |___       | |_| |  / /  | |  / /       | | | |___   ___| |
 	|_|     \_____/ \_____|      \_____/ /_/   |_| /_/        |_| |_____| |_____/
 
-poc-game3 一款批量漏洞扫描验证工具
+	poc-game3 一款批量漏洞扫描验证工具
 
-当前版本：V1.0.0
+	当前版本：V1.0.0
 
 
-Usage: poc_game3_main.py [OPTIONS] COMMAND [ARGS]...
+	Usage: poc_game3_main.py [OPTIONS] COMMAND [ARGS]...
 
-Options:
-  --help  Show this message and exit.
+	Options:
+	  --help  Show this message and exit.
 
-Commands:
-  poc-game3-batchtest
-  poc-game3-ipnumber
-  poc-game3-only
-  poc-game3-pocinfo
-  poc-game3-pocs
-  poc-game3-zoomeyehost
+	Commands:
+	  poc-game3-batchtest 批量漏洞检测模块
+	  poc-game3-ipnumber 查看ip数量模块
+	  poc-game3-only 单一漏洞检测模块
+	  poc-game3-pocinfo 查看漏洞模块信息
+	  poc-game3-pocs 列出POCs仓库里面的模块
+	  poc-game3-zoomeyehost zoomeye获取ip数据源模块
 
