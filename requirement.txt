@@ -1,8 +1,7 @@
-pyunit_color
-iupdatable
-importlib
-zoomeye
-threading
-click
-requests
-configparser
+colorama==0.4.3
+iupdatable==0.2.3
+importlib==1.0.4
+zoomeye==1.0.0
+click==7.1.2
+requests==2.20.0
+configparser==5.0.1
