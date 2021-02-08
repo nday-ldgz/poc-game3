@@ -36,7 +36,20 @@ C:\Users\Administrator\Desktop\poc-game3>poc_game3_main.py --help
 	poc-game3 一款批量漏洞扫描验证工具
 
 	当前版本：V1.0.0
+	
+	测试命令用法实例:
 
+	poc_game3_main.py poc-game3-pocs -p pocs_list 列出漏洞模块
+
+	poc_game3_main.py poc-game3-pocinfo -v CVE-2020-3019_lanproxy_dta 加载漏洞模块查看漏洞信息
+
+	poc_game3_main.py poc-game3-zoomeyehost -zk lanproxy -zp 2 获取目标关键词ip
+
+	poc_game3_main.py poc-game3-ipnumber -n  ip_load_target 查看ip 数量
+
+	poc_game3_main.py poc-game3-batchtest -b CVE-2020-3019_lanproxy_dta 加载漏洞模块批量漏洞测试 不要加.py 后缀
+
+	poc_game3_main.py poc-game3-only -o CVE-2020-3019_lanproxy_dta -t 127.0.0.1:8080加载漏洞模块单一漏洞测试 不要加.py 后缀
 
 	Usage: poc_game3_main.py [OPTIONS] COMMAND [ARGS]...
 
