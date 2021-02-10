@@ -49,7 +49,7 @@ C:\Users\Administrator\Desktop\poc-game3>poc_game3_main.py --help
 
 	poc_game3_main.py poc-game3-batchtest -b CVE-2020-3019_lanproxy_dta 加载漏洞模块批量漏洞测试 不要加.py 后缀
 
-	poc_game3_main.py poc-game3-only -o CVE-2020-3019_lanproxy_dta -t 127.0.0.1:8080加载漏洞模块单一漏洞测试 不要加.py 后缀
+	poc_game3_main.py poc-game3-only -o CVE-2020-3019_lanproxy_dta -t 127.0.0.1:8080 加载漏洞模块单一漏洞测试 不要加.py 后缀
 
 	Usage: poc_game3_main.py [OPTIONS] COMMAND [ARGS]...
 
