@@ -27,6 +27,16 @@ poc-game3 一款批量漏洞扫描验证工具
 	  lib 核心代码库
 
 
+
+部署流程：
+
+	github clone https://github.com/nday-ldgz/poc-game3.git
+	
+	pip3 install -r requirement.txt 
+
+
+
+
 C:\Users\Administrator\Desktop\poc-game3>poc_game3_main.py --help
 
 	 _____   _____   _____        _____       ___       ___  ___   _____   _____
