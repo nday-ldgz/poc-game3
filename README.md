@@ -1,6 +1,6 @@
 # poc-game3
 
-![image](https://img.shields.io/badge/poc--game3-python3.x-blue)
+![image](https://img.shields.io/badge/poc--game3-python3.x-blue) ![image](https://img.shields.io/badge/%E7%89%88%E6%9C%AC-1.0.0-brightgreen)
 
 poc-game3 一款批量漏洞扫描验证工具 
 
