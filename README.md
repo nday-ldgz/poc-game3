@@ -22,7 +22,7 @@ poc-game3 一款批量漏洞扫描验证工具
 
 	  verify 验证库 待更新
 	
-	  requirement.txt python库 
+	  requirement.txt 依赖库 
 
 	  lib 核心代码库
 
