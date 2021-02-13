@@ -1,6 +1,6 @@
 # poc-game3
 
-!images(https://img.shields.io/badge/poc--game3-python3.x-blue)
+![image](https://img.shields.io/badge/poc--game3-python3.x-blue)
 poc-game3 一款批量漏洞扫描验证工具 
 
 编程语言：python3
